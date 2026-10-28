@@ -1,4 +1,4 @@
 
-PHP >= 8.0
-OpenSSL extension enabled
-MBString extension enable
+Flask
+cryptography
+gunicorn
